@@ -1,0 +1,46 @@
+@font-face{
+    font-family:'tilt prism';
+    src:url(fonts/Tilt_prism/TiltPrism-Regular-VariableFont_XROT,YROT.ttf)
+}
+p{
+    font-family:'tilt prism';
+    opacity: 1;
+}
+
+#one{
+           
+font-family:    'Caprasimo', 'cursive';
+       
+}#two{
+           
+font-family:    'Bricolage Grotesque', 'cursive';
+    color: darkmagenta;
+    font-variant: small-caps;
+       
+}
+
+.first{
+           
+font-family: 'cursive';
+    font-style: italic;
+    color: greenyellow;
+    font-size:23px;
+    font-weight: 600;
+       
+}
+.fa-twitter{
+   color: blue;
+    font-size: 32px;
+}
+.fa-car-side{
+    color: darkmagenta;
+    font-size: 40px;
+}
+.fa-instagram{
+    color: deeppink;
+    font-size: 38px;
+}
+.fa-facebook{
+    color: darkblue;
+    font-size: 36px;
+}
